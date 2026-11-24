@@ -1,9 +1,9 @@
-User: "Qunerum"  
-Repo: "Qunerum"
-Branch: "main"  
-Index: "index.qwf"
+Qunerum  
+Qunerum
+main
+index.qwf
 
-User: "Qunerum"
-Repo: "qunetra-test-site"
-Branch: "main"
-Index: "index.qwf"
+Qunerum
+qunetra-test-site
+main
+index.qwf
