@@ -2,10 +2,10 @@ qunerum.qu
 Qunerum
 Qunerum
 main
-qunetra/index.qwf
+/qunetra/
 
 qunetra-test.exp
 Qunerum
 qunetra-test-site
 main
-index.qwf
+/
